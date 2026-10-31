@@ -1,0 +1,5 @@
+scenario,username,password,accountIndex
+admin_account_1,admin,admin,0
+admin_account_2,admin,admin,1
+jsmith_account_1,jsmith,demo1234,0
+jsmith_account_2,jsmith,demo1234,1

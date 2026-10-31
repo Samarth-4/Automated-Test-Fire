@@ -1,0 +1,6 @@
+scenario,username,password,expected
+valid_admin,admin,admin,success
+valid_jsmith,jsmith,demo1234,success
+wrong_password,admin,wrongpass,failure
+unknown_user,nouser123,Password1,failure
+empty_password,admin,,failure
